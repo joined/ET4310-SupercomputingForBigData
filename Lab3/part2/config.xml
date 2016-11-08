@@ -1,0 +1,9 @@
+<configuration>
+	<refFolder></refFolder>
+	<toolsFolder></toolsFolder>
+	<tmpFolder></tmpFolder>
+	<inputFolder></inputFolder>
+	<outputFolder></outputFolder>
+	<numInstances></numInstances>
+	<numThreads></numThreads>
+</configuration>
